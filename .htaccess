@@ -1,0 +1,18 @@
+# File: .htaccess
+# Deskripsi: File konfigurasi Apache untuk mengarahkan semua permintaan
+# ke index.php, memungkinkan routing yang rapi.
+
+# Mengaktifkan rewrite engine
+RewriteEngine On
+
+# Menentukan base directory untuk routing
+# Sesuaikan jika nama folder proyek Anda berubah
+RewriteBase /variasi-motor/
+
+# Jika file yang diminta ada, tampilkan langsung
+RewriteCond %{REQUEST_FILENAME} !-f
+# Jika folder yang diminta ada, tampilkan langsung
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Jika tidak ada file atau folder yang cocok, arahkan ke index.php
+RewriteRule ^ index.php [L]
