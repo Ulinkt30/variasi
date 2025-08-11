@@ -31,7 +31,7 @@ Dibangun menggunakan **PHP** dengan arsitektur **Model-View-Controller (MVC)** s
 
 
 ## 📸 Screenshot
-- **Beranda:** ![Beranda](assets/screenshot/beranda.jpg)
+- **Beranda:** ![Beranda](assets/scrensot/beranda.jpg)
 - **Katalog:** ![Katalog](assets/screenshot/katalog.jpg)
 - **Registrasi User:** ![Registrasi](assets/screenshot/userregis.jpg)
 - **Keranjang:** ![Keranjang](assets/screenshot/keranjang.jpg)
