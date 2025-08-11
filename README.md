@@ -31,12 +31,13 @@ Dibangun menggunakan **PHP** dengan arsitektur **Model-View-Controller (MVC)** s
 
 
 ## 📸 Screenshot
-- **Beranda:** ![Beranda](assets/scrensot/beranda.jpg)
-- **Katalog:** ![Katalog](assets/screenshot/katalog.jpg)
-- **Registrasi User:** ![Registrasi](assets/screenshot/userregis.jpg)
-- **Keranjang:** ![Keranjang](assets/screenshot/keranjang.jpg)
-- **Pesanan:** ![Pesanan](assets/screenshot/pesanan.jpg)
-- **Riwayat Pesanan:** ![Riwayat](assets/screenshot/riwayat.jpg)
+![Beranda](assets/scrensot/beranda.jpg)
+![Katalog](assets/scrensot/katalog.jpg)
+![Registrasi Pengguna](assets/scrensot/userregis.jpg)
+![Keranjang](assets/scrensot/keranjang.jpg)
+![Pesanan](assets/scrensot/pesanan.jpg)
+![Riwayat](assets/scrensot/riwayat.jpg)
+
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini ke folder `htdocs` XAMPP:
