@@ -38,10 +38,10 @@ Dibangun menggunakan **PHP** dengan arsitektur **Model-View-Controller (MVC)** s
 ![Pesanan](assets/scrensot/pesanan.jpg)
 ![Riwayat](assets/scrensot/riwayat.jpg)
 
-![Admin User](assets/scrensot/admin user.jpg)
-![Admin Pesanan](assets/scrensot/admin pesanan.jpg)
-![Admin Produk](assets/scrensot/admin produk.jpg)
-![Admin Database](assets/scrensot/admin db.jpg)
+![Admin User](assets/scrensot/adminuser.jpg)
+![Admin Pesanan](assets/scrensot/adminpesanan.jpg)
+![Admin Produk](assets/scrensot/adminproduk.jpg)
+![Admin Database](assets/scrensot/admindb.jpg)
 
 
 
