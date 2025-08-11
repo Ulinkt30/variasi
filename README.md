@@ -33,14 +33,15 @@ Dibangun menggunakan **PHP** dengan arsitektur **Model-View-Controller (MVC)** s
 ## 📸 Screenshot
 ![Beranda](assets/scrensot/beranda.jpg)
 ![Katalog](assets/scrensot/katalog.jpg)
-![Registrasi Pengguna](assets/scrensot/userregis.jpg)
+![Registrasi User](assets/scrensot/userregis.jpg)
 ![Keranjang](assets/scrensot/keranjang.jpg)
 ![Pesanan](assets/scrensot/pesanan.jpg)
 ![Riwayat](assets/scrensot/riwayat.jpg)
 
+![Admin User](assets/scrensot/admin user.jpg)
+![Admin Pesanan](assets/scrensot/admin pesanan.jpg)
+![Admin Produk](assets/scrensot/admin produk.jpg)
+![Admin Database](assets/scrensot/admin db.jpg)
 
-## 🚀 Cara Menjalankan
-1. Clone repository ini ke folder `htdocs` XAMPP:
-   ```bash
-   git clone https://github.com/username/variasi-motor.git
+
 
